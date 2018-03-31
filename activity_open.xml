@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.htd.loginform.open">
+
+    <Button
+        android:id="@+id/AI"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="Artificial Intelligence"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+         />
+    <Button
+        android:id="@+id/DS"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="Distributed Systems"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        />
+    <Button
+        android:id="@+id/MC"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="Mobile Computing"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="175dp"
+        />
+    <Button
+        android:id="@+id/CD"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="Compiler Design"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        />
+    <Button
+        android:id="@+id/DSP"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="Digital Signal Processing"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="325dp"
+        />
+    <Button
+        android:id="@+id/CN"
+        android:layout_width="264dp"
+        android:layout_height="50dp"
+        android:text="C# .NET"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        />
+
+</RelativeLayout>
